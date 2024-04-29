@@ -16,7 +16,7 @@ timezone: Asia/Taipei
 
 title: Tivon's # the main title
 
-tagline: 線上作品集 # it will display as the sub-title
+tagline: 記錄、分享成長過程 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
